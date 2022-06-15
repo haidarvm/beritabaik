@@ -1,0 +1,2 @@
+# beritabaik
+Berita Terbaik
